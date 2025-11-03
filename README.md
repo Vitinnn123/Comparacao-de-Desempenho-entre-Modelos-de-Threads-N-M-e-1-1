@@ -17,8 +17,10 @@ O objetivo dessa atividade é comparar o desempenho entre os modelos de threads 
 ```
 /Atividade Comparação Threads
 └── README.md (Documentação da Atividade)
-  /Código completo 
-  └──.java
+  /Código completo
+  ├──TarefaTeste.java
+  ├──Threads1pra1.java
+  └──ThreadsNM.java
 ```
 
 ---
