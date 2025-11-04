@@ -37,7 +37,7 @@ Não possui finalidade comercial e não concede direitos de uso além do context
 
 ## Gráficos
 
-Modelo N:M
+**Modelo N:M**
 Threads do Sistema (M): 10
 Iterações por Tarefa: 1000000
 | Nº de Tarefas  | Tempo Total (ms) |
@@ -49,7 +49,7 @@ Iterações por Tarefa: 1000000
 
 
 
-  Modelo 1:1
+  **Modelo 1:1** 
   Iterações por Thread: 1000000
 | Nº de Threads | Tempo Total (ms) |
 | ------------: | ---------------: |
