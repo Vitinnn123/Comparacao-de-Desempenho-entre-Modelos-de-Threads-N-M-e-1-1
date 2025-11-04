@@ -43,12 +43,12 @@ Não possui finalidade comercial e não concede direitos de uso além do context
 Threads do Sistema (M): 10
 Iterações por Tarefa: 1000000
 ----------------------------------------------
-Nº de Tarefas (N)  | Tempo Total (ms)
+Nº de Tarefas (N)  - Tempo Total (ms)
 ----------------------------------------------
-10                 | 15
-100                | 9
-500                | 2
-1000               | 2
+10                 - 15
+100                - 9
+500                - 2
+1000               - 2
 ==============================================
 
 
@@ -58,10 +58,10 @@ Nº de Tarefas (N)  | Tempo Total (ms)
 ==============================================
 Iterações por Thread: 1000000
 ----------------------------------------------
-Nº de Threads   | Tempo Total (ms)
+Nº de Threads   - Tempo Total (ms)
 ----------------------------------------------
-10              | 41             
-100             | 7              
-500             | 32             
-1000            | 60             
+10              - 41             
+100             - 7              
+500             - 32             
+1000            - 60             
 ==============================================
